@@ -1,0 +1,8 @@
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\bin\myfirstWebApplication.dll.config
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\bin\myfirstWebApplication.dll
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\bin\myfirstWebApplication.pdb
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\obj\Release\myfirstWebApplication.csproj.CoreCompileInputs.cache
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\obj\Release\myfirstWebApplication.dll
+E:\大学资料\大三上学期\一些想法\web应用\myfirstWebApplication -2.0\myfirstWebApplication\obj\Release\myfirstWebApplication.pdb
